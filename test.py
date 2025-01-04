@@ -17,7 +17,7 @@ chat_completion = client.chat.completions.create(
     model="deepseek-ai/DeepSeek-V3",
     messages=[
         {"role": "system", "content": "You are a helpful assistant"},
-        {"role": "user", "content": "Hello"},
+        {"role": "user", "content": "Hey Deepseek are you trained on Open AI data ?"},
     ],
     temperature=0.7,
     max_tokens=1024,
