@@ -1,0 +1,3 @@
+phiData
+python-dotenv
+arxiv

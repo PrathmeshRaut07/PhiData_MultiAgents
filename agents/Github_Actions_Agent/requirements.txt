@@ -1,0 +1,3 @@
+phiData
+PyGithub
+google-generativeai
